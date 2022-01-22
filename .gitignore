@@ -1,0 +1,10 @@
+api-shop/node_modules
+front-shop/node_modules
+
+front-shop/npm-debug.log*
+front-shop/yarn-debug.log*
+front-shop/yarn-error.log*
+
+api-shop/npm-debug.log*
+api-shop/yarn-debug.log*
+api-shop/yarn-error.log*
